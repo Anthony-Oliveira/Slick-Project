@@ -1,0 +1,22 @@
+{
+  "name": "slick-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anthony-Oliveira/Slick-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anthony-Oliveira/Slick-Project/issues"
+  },
+  "homepage": "https://github.com/Anthony-Oliveira/Slick-Project#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
